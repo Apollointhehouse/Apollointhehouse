@@ -17,7 +17,7 @@ New Zealand</h3>
 <a href="https://twitter.com/apollointhehous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apollointhehous" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/UCjtBczEkeetWEF4E6XeMDJA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apollointhehouse" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/apollointhehouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apollointhehouse" height="30" width="40" /></a>
-<a href="https://discord.gg/Apollointhehouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Apollointhehouse" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/322923102780653591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Apollointhehouse" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
