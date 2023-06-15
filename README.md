@@ -1,5 +1,5 @@
-<img alt = "Statistics" align = "left" width = "54%" src = "https://github-readme-stats.vercel.app/api?username=Apollointhehouse&show_icons=true&theme=tokyonight"></img>
-<img alt = "Languages" align = "left" width = "41%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Apollointhehouse&theme=tokyonight"></img>
+<img alt = "Statistics" align = "left" width = "54%" src = "https://github-readme-stats-one-orcin.vercel.app/api?username=Apollointhehouse&show_icons=true&theme=tokyonight"></img>
+<img alt = "Languages" align = "left" width = "41%" src = "https://github-readme-stats-one-orcin.vercel.app/api/top-langs/?username=Apollointhehouse&theme=tokyonight"></img>
 
 # ⠀⠀⠀⠀⠀⠀
 
