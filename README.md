@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apollo</h1>
-<h3 align="center">A hobbist developer from New Zealand</h3>
+<h3 align="center">A hobbist developer from <br>
+New Zealand</h3>
 
 <p align="left"> <a href="https://twitter.com/apollointhehous" target="blank"><img src="https://img.shields.io/twitter/follow/apollointhehous?logo=twitter&style=for-the-badge" alt="apollointhehous" /></a> </p>
 
