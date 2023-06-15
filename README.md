@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Apollo</h1>
+<h1 align="center">Hi, I'm Apollo</h1>
 <h3 align="center">A hobbist developer from <br>
 New Zealand</h3>
 
 <p align="left"> <a href="https://twitter.com/apollointhehous" target="blank"><img src="https://img.shields.io/twitter/follow/apollointhehous?logo=twitter&style=for-the-badge" alt="apollointhehous" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **Kotlin & Java based projects**
+- I’m looking to collaborate on **Kotlin & Java based projects**
 
-- 💬 Ask me about **Kotlin**
+- Ask me about **Kotlin**
 
-- 📫 How to reach me **apollocameronboot@gmail.com**
+- How to reach me **apollocameronboot@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
