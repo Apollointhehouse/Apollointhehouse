@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on  **Kotlin & Java based projects**
+- 👯 I’m looking to collaborate on<br> **Kotlin & Java based projects**
 
 - 💬 Ask me about **Kotlin**
 
