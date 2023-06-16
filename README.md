@@ -1,7 +1,7 @@
 ### Hello, I'm Apollo
 I'm a hobbist Kotlin/Java developer.
 
-## Open source
+## Projects and Stuff:
 I’m looking to collaborate on **Kotlin & Java based projects**
 
 ## Languages and Tools:
@@ -13,6 +13,6 @@ I’m looking to collaborate on **Kotlin & Java based projects**
 [![Leet Code](https://img.shields.io/badge/leet-Apollointhehous-FFA116.svg?style=flat-square&logo=leetcode&logoColor=white&labelColor=262626)](https://twitter.com/Apollointhehous)
 [![Discord](https://img.shields.io/badge/discord-@Apollointhehous-7289DA.svg?style=flat-square&logo=discord&logoColor=white&labelColor=262626)](https://twitter.com/Apollointhehous)
 
-## Metrics
+## Metrics:
 <p><img align="left" height="195" src="https://github-readme-stats-one-orcin.vercel.app/api/top-langs?username=apollointhehouse&show_icons=true&theme=tokyonight&locale=en" alt="apollointhehouse" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-one-orcin.vercel.app/api?username=apollointhehouse&show_icons=true&theme=tokyonight&locale=en" alt="apollointhehouse" /></p>
