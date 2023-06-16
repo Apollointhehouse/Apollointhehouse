@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Apollo</h1>
-<h3 align="center">A hobbist developer from <br>
-New Zealand</h3>
+<h3 align="center">A hobbist developer from <br>New Zealand</h3>
+
+<br>
 
 - I’m currently learning **Kotlin**
 
