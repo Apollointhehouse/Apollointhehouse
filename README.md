@@ -23,9 +23,9 @@ I’m looking to collaborate on **Kotlin & Java based projects**
 [![Mastodon](https://img.shields.io/badge/mastodon-@Apollointhehouse-5A46DA.svg?style=flat-square&logo=mastodon&logoColor=white&labelColor=262626)](https://kolektiva.social/@Apollointhehouse)
 <br>
 [![Youtube](https://img.shields.io/badge/youtube-@Apollointhehouse-FF1A1A.svg?style=flat-square&logo=youtube&logoColor=white&labelColor=262626)](https://www.youtube.com/channel/UCjtBczEkeetWEF4E6XeMDJA)
-[![Leet Code](https://img.shields.io/badge/leet-Apollointhehous-FFA116.svg?style=flat-square&logo=leetcode&logoColor=white&labelColor=262626)](https://twitter.com/Apollointhehous)
+[![Leet Code](https://img.shields.io/badge/leet-Apollointhehouse-FFA116.svg?style=flat-square&logo=leetcode&logoColor=white&labelColor=262626)](https://leetcode.com/Apollointhehouse/)
 <br>
-[![Discord](https://img.shields.io/badge/discord-@Apollointhehous-7289DA.svg?style=flat-square&logo=discord&logoColor=white&labelColor=262626)](https://twitter.com/Apollointhehous)
+[![Discord](https://img.shields.io/badge/discord-@Apollointhehouse-7289DA.svg?style=flat-square&logo=discord&logoColor=white&labelColor=262626)](https://discord.gg/HctDX5vEF)
 
 ## Metrics:
 <p><img align="left" height="195" src="https://github-readme-stats-one-orcin.vercel.app/api/top-langs?username=apollointhehouse&show_icons=true&theme=tokyonight&locale=en" alt="apollointhehouse" /></p>
