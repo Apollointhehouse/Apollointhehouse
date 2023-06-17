@@ -24,6 +24,7 @@ I’m looking to collaborate on **Kotlin & Java based projects**
 <br>
 [![Youtube](https://img.shields.io/badge/youtube-@Apollointhehouse-FF1A1A.svg?style=flat-square&logo=youtube&logoColor=white&labelColor=262626)](https://www.youtube.com/channel/UCjtBczEkeetWEF4E6XeMDJA)
 [![Leet Code](https://img.shields.io/badge/leet-Apollointhehous-FFA116.svg?style=flat-square&logo=leetcode&logoColor=white&labelColor=262626)](https://twitter.com/Apollointhehous)
+<br>
 [![Discord](https://img.shields.io/badge/discord-@Apollointhehous-7289DA.svg?style=flat-square&logo=discord&logoColor=white&labelColor=262626)](https://twitter.com/Apollointhehous)
 
 ## Metrics:
