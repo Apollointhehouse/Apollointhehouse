@@ -16,8 +16,8 @@
 
 
 
-<h3><picture>
+<p><picture>
     <source media="(prefers-color-scheme: light)" srcset="#">
     <source media="(prefers-color-scheme: dark)"  srcset="http://probablyprogramming.com/wp-content/uploads/2009/03/handtinyblack.gif">
     <img src="#" alt="LIGHT MODE USER ALERT!!!! You're burning your eyes!" style="height:0px;">
-</picture></h3>
+</picture></p>
