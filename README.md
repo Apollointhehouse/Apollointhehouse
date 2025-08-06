@@ -13,11 +13,3 @@
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-one-orcin.vercel.app/api?username=apollointhehouse&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en">
     <img src="#" alt="General Statistics" style="height:180px;">
 </picture>
-
-
-
-<p><picture>
-    <source media="(prefers-color-scheme: light)" srcset="#">
-    <source media="(prefers-color-scheme: dark)"  srcset="http://probablyprogramming.com/wp-content/uploads/2009/03/handtinyblack.gif">
-    <img src="#" alt="LIGHT MODE USER ALERT!!!! You're burning your eyes!" style="height:0px;">
-</picture></p>
